@@ -14,7 +14,7 @@ public class Help {
                 System.out.println("else оператор");
                 break;
             case '2':
-                System.out.println("Традиционный оператор switch");
+                System.out.println("Традиционный оператор switch: ");
                 System.out.println("switch(выражение) {");
                 System.out.println("\tcase константа:");
                 System.out.println("\t\tпоследовательность операторов");
