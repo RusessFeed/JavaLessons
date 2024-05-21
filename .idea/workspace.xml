@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90f0a588-43f4-46ba-8741-b7b6e584b779" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GalToLit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CastDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DWDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecrFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Empty3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmptyFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GalToLit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GalToLitTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Guess4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Help.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hypot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Increments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KbIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicalOpTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PromDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RelLogOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThisWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeightOnMoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2g9OcKeVVhIolTjlK6gEuJlSOvs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BlockDemo.executor": "Run",
+    "Application.CastDemo.executor": "Run",
+    "Application.Comma.executor": "Run",
+    "Application.Constructors.executor": "Run",
+    "Application.ConstructorsSupreme.executor": "Run",
+    "Application.DecrFor.executor": "Run",
+    "Application.Empty3.executor": "Run",
+    "Application.EmptyFor.executor": "Run",
+    "Application.ForDemo.executor": "Run",
+    "Application.GalToLit.executor": "Run",
+    "Application.GalToLitTable.executor": "Run",
+    "Application.GameGuess.executor": "Run",
+    "Application.Guess4.executor": "Run",
+    "Application.Help.executor": "Run",
+    "Application.Hypot.executor": "Run",
+    "Application.IfDemo.executor": "Run",
+    "Application.Inches.executor": "Run",
+    "Application.Increments.executor": "Run",
+    "Application.KbIn.executor": "Run",
+    "Application.Ladder.executor": "Run",
+    "Application.LogicalOpTable.executor": "Run",
+    "Application.ModDemo.executor": "Run",
+    "Application.Power.executor": "Run",
+    "Application.PromDemo.executor": "Run",
+    "Application.RelLogOps.executor": "Run",
+    "Application.SimpleNumbers.executor": "Run",
+    "Application.Sound.executor": "Run",
+    "Application.SwitchDemo.executor": "Run",
+    "Application.Tabulation.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ThisWord.executor": "Run",
+    "Application.WeightOnMoon.executor": "Run",
+    "Application.WhileDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Lesson/GalToLit/src/Main.java"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-15.0.2-corretto-15.0.2-4caba194b151-9bc2d75a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90f0a588-43f4-46ba-8741-b7b6e584b779" name="Changes" comment="" />
+      <created>1715106414754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715106414754</updated>
+    </task>
+    <servers />
+  </component>
+</project>
